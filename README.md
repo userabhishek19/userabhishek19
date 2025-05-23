@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Abhishek+Jha;Full+Stack+Dev+%7C+DSA+Explorer;Code.+Build.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=708090&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Abhishek+Jha;Full+Stack+Dev+%7C+DSA+Explorer;Code.+Build.+Repeat." />
 </h1>
 
 <h3 align="center">🚀 Turning ideas into impactful digital solutions</h3>
@@ -31,21 +31,35 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,python,git,github,tailwind,vscode" />
 </p>
 
-
+---
 
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjhaaj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjhaaj&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=userabhishek19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=userabhishek19&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjhaaj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userabhishek19&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🌟 Highlight Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/userabhishek19/RentKaro" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=userabhishek19&repo=RentKaro&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/userabhishek19/College-Recommendation-System" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=userabhishek19&repo=collegerecommend&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 
+---
 
 <h3 align="center">
-  <i>"Code is like humor: if you have to explain it, it's probably not working." - Cory House</i>
+  <i>"Code is like humor — if you have to explain it, it's probably not working." - Cory House</i>
 </h3>
